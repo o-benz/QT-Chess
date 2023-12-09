@@ -33,4 +33,4 @@ A Chess Game implemented in C++ using the Qt framework. Enjoy an immersive chess
 - Qt framework
 
 ## Credits
-This Chess Game was created with passion by [Your Name]. Feel free to contribute and make it even cooler!
+This Chess Game was created with passion by Omar Benzekri with the help of Ines Kabbaj. Feel free to contribute and make it even cooler!
